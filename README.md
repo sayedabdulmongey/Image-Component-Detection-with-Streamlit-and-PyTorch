@@ -1,6 +1,6 @@
 # Image Component Detection with Streamlit and PyTorch
 
-![Demo](demo.png)
+![Demo](image.png)
 
 ## Overview
 
@@ -15,8 +15,3 @@ Ensure you have the following installed before running the project:
 - PyTorch
 - torchvision
 - Pillow
-
-You can install the required Python packages using pip:
-
-```bash
-pip install -r requirements.txt
