@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 1.Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/image-component-detection.git
+git clone https://github.com/sayedabdulmongey/Image-Component-Detection-with-Streamlit-and-PyTorch.git
 cd image-component-detection
 ```
 
