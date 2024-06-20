@@ -24,20 +24,20 @@ pip install -r requirements.txt
 
 ## How to Run the Project
 
-### 1.Clone the repository to your local machine:
+### 1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/sayedabdulmongey/Image-Component-Detection-with-Streamlit-and-PyTorch.git
 cd image-component-detection
 ```
 
-### 2.Install the required dependencies:
+### 2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3.Run the Streamlit application:
+### 3. Run the Streamlit application:
 
 ```bash
 streamlit run app.py
@@ -49,7 +49,7 @@ streamlit run app.py
 streamlit run app.py --server.enableXsrfProtection false
 ```
 
-### 4.The application will open in your default web browser. Upload an image using the file uploader and click "Analyse Image" to detect components in the image.
+### 4. The application will open in your default web browser. Upload an image using the file uploader and click "Analyse Image" to detect components in the image.
 
 ## Project Structure
 - `app.py` : Main Streamlit application script.
